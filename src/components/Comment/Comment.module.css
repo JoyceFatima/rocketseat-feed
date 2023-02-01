@@ -54,12 +54,12 @@
 
 .commentContent a {
   font-weight: bold;
-  color: var(--green-500);
+  color: var(--purple-500);
   text-decoration: none;
 }
 
 .commentContent a:hover {
-  color: var(--green-300);
+  color: var(--purple-300);
 }
 
 .commentBox footer {
@@ -79,7 +79,7 @@
 }
 
 .commentBox footer button:hover {
-  color: var(--green-300);
+  color: var(--purple-300);
 }
 
 .commentBox footer button svg {

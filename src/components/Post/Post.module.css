@@ -50,12 +50,12 @@
 
 .content a {
   font-weight: bold;
-  color: var(--green-500);
+  color: var(--purple-500);
   text-decoration: none;
 }
 
 .content a:hover {
-  color: var(--green-300);
+  color: var(--purple-300);
 }
 
 
@@ -85,7 +85,7 @@
 }
 
 .commentForm textarea:focus {
-  outline: 2px solid var(--green-500);
+  outline: 2px solid var(--purple-500);
 }
 
 .commentForm footer {
@@ -103,7 +103,7 @@
   margin-top: 1rem;
   border-radius: 8px;
   border: 0;
-  background: var(--green-500);
+  background: var(--purple-500);
   color: var(--white);
   font-weight: bold;
   cursor: pointer;
@@ -116,7 +116,7 @@
 } 
 
 .commentForm button[type="submit"]:not(:disabled):hover {
-  background: var(--green-300);
+  background: var(--purple-300);
 } 
 
 .commentForm button:disabled {
